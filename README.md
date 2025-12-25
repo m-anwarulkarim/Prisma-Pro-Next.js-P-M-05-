@@ -21,14 +21,13 @@
 | No. | Topic                                      | Link                        |
 | --- | ------------------------------------------ | --------------------------- |
 | 01  | 🔏 Welcome to Prisma ORM                   | [View](./module-22/C-01.ts) |
-| 02  | 🔏 Prisma Learning Plan                    | [View](./module-22/C-02.ts) |
-| 03  | 🔏 Setting up Prisma and DB Connection     | [View](./module-22/C-03.ts) |
-| 04  | 🔏 Your First Prisma Query and Migration   | [View](./module-22/C-04.ts) |
-| 05  | 🔏 Writing Prisma Schema & model Relations | [View](./module-22/C-05.ts) |
-| 06  | 🔏 Prisma model relations and enums        | [View](./module-22/C-06.ts) |
-| 07  | 🔏 Creating data with Prisma               | [View](./module-22/C-07.ts) |
-| 08  | 🔏 Reading data using select & include     | [View](./module-22/C-08.ts) |
-| 09  | 🔏 Updating and deleting records           | [View](./module-22/C-09.ts) |
-| 10  | 🔏 Upsert in prisma (update and delete)    | [View](./module-22/)        |
+| 02  | 🔏 Setting up Prisma and DB Connection     | [View](./module-22/C-03.ts) |
+| 03  | 🔏 Your First Prisma Query and Migration   | [View](./module-22/C-04.ts) |
+| 04  | 🔏 Writing Prisma Schema & model Relations | [View](./module-22/C-05.ts) |
+| 05  | 🔏 Prisma model relations and enums        | [View](./module-22/C-06.ts) |
+| 06  | 🔏 Creating data with Prisma               | [View](./module-22/C-07.ts) |
+| 07  | 🔏 Reading data using select & include     | [View](./module-22/C-08.ts) |
+| 08  | 🔏 Updating and deleting records           | [View](./module-22/C-09.ts) |
+| 09  | 🔏 Upsert in prisma (update and delete)    | [View](./module-22/)        |
 
 ---
