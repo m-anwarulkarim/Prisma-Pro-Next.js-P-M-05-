@@ -29,5 +29,6 @@
 | 07  | 🔏 Reading data using select & include  | [View](./module-22/C-08.ts) |
 | 08  | 🔏 Updating and deleting records        | [View](./module-22/C-09.ts) |
 | 09  | 🔏 Upsert in prisma (update and delete) | [View](./module-22/)        |
+| 11  | 🔏 delete datbase & table & column      | [View](./module-22/C-11.ts) |
 
 ---
