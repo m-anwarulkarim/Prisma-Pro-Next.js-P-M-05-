@@ -51,3 +51,38 @@
 | 11  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
 
 ---
+
+# 📦 Module 24 — Requirement Analysis, ERD & Project Setup
+
+### 📚 Topics Covered
+
+| No. | Topic              | Link                        |
+| --- | ------------------ | --------------------------- |
+| 01  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 02  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 03  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 04  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 05  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 06  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 07  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 08  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 09  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 11  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+
+---
+
+# 📦 Module 25 — Requirement Analysis, ERD & Project Setup
+
+### 📚 Topics Covered
+
+| No. | Topic                                        | Link                        |
+| --- | -------------------------------------------- | --------------------------- |
+| 01  | 🔏 Fetching All Posts from the Database      | [View](./module-25/C-01.md) |
+| 02  | 🔏 Searching Posts by specific words         | [View](./module-25/C-02.md) |
+| 03  | 🔏 Advanced Search Using OR & HAS Conditions | [View](./module-25/C-03.md) |
+| 04  | 🔏 Implementing AND Conditions               | [View](./module-25/C-04.md) |
+| 05  | 🔏 Nested Conditions (Using OR in AND )      | [View](./module-25/C-05.md) |
+| 06  | 🔏 Filtering Data Using Boolean Fields       | [View](./module-25/C-06.md) |
+| 07  | 🔏 Filtering Posts by Status and Author ID   | [View](./module-25/C-07.md) |
+
+|
