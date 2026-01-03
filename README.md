@@ -38,16 +38,16 @@
 
 | No. | Topic              | Link                        |
 | --- | ------------------ | --------------------------- |
-| 01  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 02  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 03  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 04  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 05  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 06  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 07  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 08  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 09  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 11  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 01  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 02  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 03  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 04  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 05  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 06  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 07  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 08  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 09  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
+| 11  | 🔏 Comming soon... | [View](./module-23/C-01.md) |
 
 ---
 
@@ -57,16 +57,16 @@
 
 | No. | Topic              | Link                        |
 | --- | ------------------ | --------------------------- |
-| 01  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 02  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 03  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 04  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 05  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 06  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 07  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 08  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 09  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 11  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| 01  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 02  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 03  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 04  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 05  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 06  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 07  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 08  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 09  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 11  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
 
 ---
 
@@ -90,18 +90,18 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic              | Link                        |
-| --- | ------------------ | --------------------------- |
-| 01  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 02  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 03  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 04  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 05  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 06  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 07  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 08  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 09  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
-| 11  | 🔏 Comming soon... | [View](./module-23/C-01.ts) |
+| No. | Topic                                    | Link                        |
+| --- | ---------------------------------------- | --------------------------- |
+| 01  | 🔏 Database Seeding: Admin User Creation | [View](./module-26/C-01.md) |
+| 02  | 🔏 Comming soon...                       | [View](./module-26/C-02.md) |
+| 03  | 🔏 Comming soon...                       | [View](./module-26/C-03.md) |
+| 04  | 🔏 Comming soon...                       | [View](./module-26/C-04.md) |
+| 05  | 🔏 Comming soon...                       | [View](./module-26/C-05.md) |
+| 06  | 🔏 Comming soon...                       | [View](./module-26/C-06.md) |
+| 07  | 🔏 Comming soon...                       | [View](./module-26/C-07.md) |
+| 08  | 🔏 Comming soon...                       | [View](./module-26/C-08.md) |
+| 09  | 🔏 Comming soon...                       | [View](./module-26/C-09.md) |
+| 11  | 🔏 Comming soon...                       | [View](./module-26/C-10.md) |
 
 ---
 
@@ -109,15 +109,15 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                                    | Link                        |
-| --- | ---------------------------------------- | --------------------------- |
-| 01  | 🔏 Database Seeding: Admin User Creation | [View](./module-23/C-01.ts) |
-| 02  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 03  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 04  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 05  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 06  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 07  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 08  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 09  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
-| 11  | 🔏 Comming soon...                       | [View](./module-23/C-01.ts) |
+| No. | Topic              | Link                        |
+| --- | ------------------ | --------------------------- |
+| 01  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 02  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 03  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 04  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 05  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 06  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 07  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 08  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 09  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| 11  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
