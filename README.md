@@ -86,22 +86,20 @@
 
 ---
 
-# 📦 Module 26 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 26 — API Query & Paginatio
 
 ### 📚 Topics Covered
 
-| No. | Topic                                    | Link                        |
-| --- | ---------------------------------------- | --------------------------- |
-| 01  | 🔏 Database Seeding: Admin User Creation | [View](./module-26/C-01.md) |
-| 02  | 🔏 Comming soon...                       | [View](./module-26/C-02.md) |
-| 03  | 🔏 Comming soon...                       | [View](./module-26/C-03.md) |
-| 04  | 🔏 Comming soon...                       | [View](./module-26/C-04.md) |
-| 05  | 🔏 Comming soon...                       | [View](./module-26/C-05.md) |
-| 06  | 🔏 Comming soon...                       | [View](./module-26/C-06.md) |
-| 07  | 🔏 Comming soon...                       | [View](./module-26/C-07.md) |
-| 08  | 🔏 Comming soon...                       | [View](./module-26/C-08.md) |
-| 09  | 🔏 Comming soon...                       | [View](./module-26/C-09.md) |
-| 11  | 🔏 Comming soon...                       | [View](./module-26/C-10.md) |
+| No. | Topic                                       | Link                        |
+| --- | ------------------------------------------- | --------------------------- |
+| 01  | 🔏 Database Seeding: Admin User Creation    | [View](./module-26/C-01.md) |
+| 02  | 🔏 Offset vs Cursor-based Pagination        | [View](./module-26/C-02.md) |
+| 03  | 🔏 Offset-based API                         | [View](./module-26/C-03.md) |
+| 04  | 🔏 Cursor-based Pagination                  | [View](./module-26/C-04.md) |
+| 05  | 🔏 Sorting                                  | [View](./module-26/C-05.md) |
+| 06  | 🔏 Offset-based Pagination & Sorting Helper | [View](./module-26/C-06.md) |
+| 07  | 🔏 Get Post By Id                           | [View](./module-26/C-07.md) |
+| 08  | 🔏 Get Post By Id And Increment View Count  | [View](./module-26/C-08.md) |
 
 ---
 
