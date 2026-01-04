@@ -70,7 +70,26 @@
 
 ---
 
-# 📦 Module 25 — : Advanced Querying & Filtering in Prisma
+# 📦 Module 25 — Requirement Analysis, ERD & Project Setup
+
+### 📚 Topics Covered
+
+| No. | Topic              | Link                        |
+| --- | ------------------ | --------------------------- |
+| 01  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 02  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 03  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 04  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 05  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 06  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 07  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 08  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 09  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| 11  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+
+---
+
+# 📦 Module 26 — : Advanced Querying & Filtering in Prisma
 
 ### 📚 Topics Covered
 
@@ -86,7 +105,7 @@
 
 ---
 
-# 📦 Module 26 — API Query & Paginatio
+# 📦 Module 27 — API Query & Paginatio
 
 ### 📚 Topics Covered
 
