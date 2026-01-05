@@ -122,19 +122,19 @@
 
 ---
 
-# 📦 Module 27 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 28 — Requirement Analysis, ERD & Project Setup
 
 ### 📚 Topics Covered
 
-| No. | Topic              | Link                        |
-| --- | ------------------ | --------------------------- |
-| 01  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 02  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 03  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 04  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 05  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 06  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 07  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 08  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 09  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
-| 11  | 🔏 Comming soon... | [View](./module-27/C-01.md) |
+| No. | Topic                                                              | Link                        |
+| --- | ------------------------------------------------------------------ | --------------------------- |
+| 01  | 🔏 Comment Creation Workflow (Schema → Service → Controller → API) | [View](./module-28/C-01.md) |
+| 02  | 🔏 Comming soon...                                                 | [View](./module-28/C-02.md) |
+| 03  | 🔏 Comming soon...                                                 | [View](./module-28/C-03.md) |
+| 04  | 🔏 Comming soon...                                                 | [View](./module-28/C-04.md) |
+| 05  | 🔏 Comming soon...                                                 | [View](./module-28/C-05.md) |
+| 06  | 🔏 Comming soon...                                                 | [View](./module-28/C-06.md) |
+| 07  | 🔏 Comming soon...                                                 | [View](./module-28/C-07.md) |
+| 08  | 🔏 Comming soon...                                                 | [View](./module-28/C-08.md) |
+| 09  | 🔏 Comming soon...                                                 | [View](./module-28/C-09.md) |
+| 11  | 🔏 Comming soon...                                                 | [View](./module-28/C-10.md) |
