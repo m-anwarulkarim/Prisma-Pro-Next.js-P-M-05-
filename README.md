@@ -129,9 +129,9 @@
 | No. | Topic                                                              | Link                        |
 | --- | ------------------------------------------------------------------ | --------------------------- |
 | 01  | 🔏 Comment Creation Workflow (Schema → Service → Controller → API) | [View](./module-28/C-01.md) |
-| 02  | 🔏 Comming soon...                                                 | [View](./module-28/C-02.md) |
-| 03  | 🔏 Comming soon...                                                 | [View](./module-28/C-03.md) |
-| 04  | 🔏 Comming soon...                                                 | [View](./module-28/C-04.md) |
+| 02  | 🔏 Get Single Post with Nested Comments & Replies                  | [View](./module-28/C-02.md) |
+| 03  | 🔏 post-comment-count-example                                      | [View](./module-28/C-03.md) |
+| 04  | 🔏 Get Posts with Total & Top-Level Comment Counts                 | [View](./module-28/C-04.md) |
 | 05  | 🔏 Comming soon...                                                 | [View](./module-28/C-05.md) |
 | 06  | 🔏 Comming soon...                                                 | [View](./module-28/C-06.md) |
 | 07  | 🔏 Comming soon...                                                 | [View](./module-28/C-07.md) |
