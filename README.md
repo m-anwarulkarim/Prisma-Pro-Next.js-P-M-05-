@@ -139,11 +139,13 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                                 | Link                        |
-| --- | ------------------------------------- | --------------------------- |
-| 01  | 🔏 Prisma Client Known Request Errors | [View](./module-28/C-01.md) |
-| 02  | 🔏coming soon....                     | [View](./module-28/C-02.md) |
-| 03  | 🔏coming soon....                     | [View](./module-28/C-03.md) |
-| 04  | 🔏coming soon....                     | [View](./module-28/C-04.md) |
-| 05  | 🔏coming soon....                     | [View](./module-28/C-05.md) |
-| 06  | 🔏coming soon....                     | [View](./module-28/C-06.md) |
+| No. | Topic                                       | Link                        |
+| --- | ------------------------------------------- | --------------------------- |
+| 01  | 🔏 Global Error Handling                    | [View](./module-28/C-01.md) |
+| 02  | 🔏 Prisma Client Known Request Errors       | [View](./module-28/C-02.md) |
+| 03  | 🔏 usege Prisma Client Known Request Errors | [View](./module-28/C-03.md) |
+| 04  | 🔏coming soon....                           | [View](./module-28/C-04.md) |
+| 05  | 🔏coming soon....                           | [View](./module-28/C-05.md) |
+| 06  | 🔏coming soon....                           | [View](./module-28/C-06.md) |
+| 07  | 🔏coming soon....                           | [View](./module-28/C-07.md) |
+| 08  | 🔏coming soon....                           | [View](./module-28/C-08.md) |
