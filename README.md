@@ -134,3 +134,16 @@
 | 04  | 🔏 Get Posts with Total & Top-Level Comment Counts                 | [View](./module-28/C-04.md) |
 | 05  | 🔏 Get Comments by Author ID with Post & Replies                   | [View](./module-28/C-05.md) |
 | 06  | 🔏 Delete Comment with Validation & Authorization                  | [View](./module-28/C-06.md) |
+
+# 📦 Module 29 — Requirement Analysis, ERD & Project Setup
+
+### 📚 Topics Covered
+
+| No. | Topic                                                       | Link                        |
+| --- | ----------------------------------------------------------- | --------------------------- |
+| 01  | 🔏 Global Error Handling Middleware (Express + TypeScript)” | [View](./module-28/C-01.md) |
+| 02  | 🔏coming soon....                                           | [View](./module-28/C-02.md) |
+| 03  | 🔏coming soon....                                           | [View](./module-28/C-03.md) |
+| 04  | 🔏coming soon....                                           | [View](./module-28/C-04.md) |
+| 05  | 🔏coming soon....                                           | [View](./module-28/C-05.md) |
+| 06  | 🔏coming soon....                                           | [View](./module-28/C-06.md) |
