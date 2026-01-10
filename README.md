@@ -89,7 +89,7 @@
 
 ---
 
-# 📦 Module 26 — : Advanced Querying & Filtering in Prisma
+# 📦 Module 26 — : Prisma Querying & Filtering Techniques
 
 ### 📚 Topics Covered
 
@@ -105,7 +105,7 @@
 
 ---
 
-# 📦 Module 27 — API Query & Paginatio
+# 📦 Module 27 — API Query, Pagination & Sorting
 
 ### 📚 Topics Covered
 
@@ -122,7 +122,7 @@
 
 ---
 
-# 📦 Module 28 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 28 — Post , Comment Management Reference & Best Practices
 
 ### 📚 Topics Covered
 
@@ -135,7 +135,7 @@
 | 05  | 🔏 Get Comments by Author ID with Post & Replies                   | [View](./module-28/C-05.md) |
 | 06  | 🔏 Delete Comment with Validation & Authorization                  | [View](./module-28/C-06.md) |
 
-# 📦 Module 29 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 29 — Prisma Error Handling & Usage
 
 ### 📚 Topics Covered
 
@@ -144,8 +144,8 @@
 | 01  | 🔏 Global Error Handling                    | [View](./module-28/C-01.md) |
 | 02  | 🔏 Prisma Client Known Request Errors       | [View](./module-28/C-02.md) |
 | 03  | 🔏 usege Prisma Client Known Request Errors | [View](./module-28/C-03.md) |
-| 04  | 🔏coming soon....                           | [View](./module-28/C-04.md) |
-| 05  | 🔏coming soon....                           | [View](./module-28/C-05.md) |
-| 06  | 🔏coming soon....                           | [View](./module-28/C-06.md) |
-| 07  | 🔏coming soon....                           | [View](./module-28/C-07.md) |
-| 08  | 🔏coming soon....                           | [View](./module-28/C-08.md) |
+| 04  | 🔏 PrismaClientValidationError              | [View](./module-28/C-04.md) |
+| 05  | 🔏 usege PrismaClientValidationError        | [View](./module-28/C-05.md) |
+| 06  | 🔏 Prisma Client Unknown Error              | [View](./module-28/C-06.md) |
+| 07  | 🔏 Prisma Client Initialization Error       | [View](./module-28/C-07.md) |
+| 08  | 🔏 Prisma Client Rust Panic Error           | [View](./module-28/C-08.md) |
