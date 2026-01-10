@@ -36,18 +36,10 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                           | Link                        |
-| --- | ------------------------------- | --------------------------- |
-| 01  | 🔏 Backend Requirement Analysis | [View](./module-23/C-01.md) |
-| 02  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 03  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 04  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 05  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 06  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 07  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 08  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 09  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
-| 11  | 🔏 Comming soon...              | [View](./module-23/C-01.md) |
+| No. | Topic                                             | Link                        |
+| --- | ------------------------------------------------- | --------------------------- |
+| 01  | 🔏 Backend Requirement Analysis                   | [View](./module-23/C-01.md) |
+| 02  | 🔏 High-Level System Design: Medium Scale Backend | [View](./module-23/C-01.md) |
 
 ---
 
@@ -55,18 +47,9 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic              | Link                        |
-| --- | ------------------ | --------------------------- |
-| 01  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 02  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 03  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 04  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 05  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 06  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 07  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 08  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 09  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
-| 11  | 🔏 Comming soon... | [View](./module-24/C-01.md) |
+| No. | Topic                                                                 | Link                        |
+| --- | --------------------------------------------------------------------- | --------------------------- |
+| 01  | 🔏 Inroduction to Email & Password Authentication (Better Auth Setup) | [View](./module-24/C-01.md) |
 
 ---
 
@@ -77,15 +60,6 @@
 | No. | Topic              | Link                        |
 | --- | ------------------ | --------------------------- |
 | 01  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 02  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 03  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 04  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 05  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 06  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 07  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 08  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 09  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
-| 11  | 🔏 Comming soon... | [View](./module-25/C-01.md) |
 
 ---
 
@@ -143,7 +117,7 @@
 | --- | ---------------------------------------------- | --------------------------- |
 | 01  | 🔏 Admin Comment Management System             | [View](./module-29/C-01.md) |
 | 02  | 🔏 Prisma Aggregation / Grouping / Summarizing | [View](./module-29/C-01.md) |
-| 03  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
+| 03  | 🔏 Update User-Owned Posts                     | [View](./module-29/C-01.md) |
 | 04  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
 | 05  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
 | 06  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
