@@ -1,4 +1,4 @@
-# 🚀 Mission - 05
+# 🚀 Mission :
 
 ## Be a Prisma Pro & Next.js Ninja Tentative Outline
 
@@ -13,7 +13,7 @@
 
 ---
 
-# 📦 Module 22 — Prisma ORM Fundamentals
+# 📦 Module 01 — Prisma ORM Fundamentals
 
 ### 📚 Topics Covered
 
@@ -32,7 +32,7 @@
 
 ---
 
-# 📦 Module 23 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 02 — Requirement Analysis, ERD & Project Setup
 
 ### 📚 Topics Covered
 
@@ -43,7 +43,7 @@
 
 ---
 
-# 📦 Module 24 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 03 — Requirement Analysis, ERD & Project Setup
 
 ### 📚 Topics Covered
 
@@ -53,7 +53,7 @@
 
 ---
 
-# 📦 Module 25 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 04 — Requirement Analysis, ERD & Project Setup
 
 ### 📚 Topics Covered
 
@@ -63,7 +63,7 @@
 
 ---
 
-# 📦 Module 26 — : Prisma Querying & Filtering Techniques
+# 📦 Module 05 — : Prisma Querying & Filtering Techniques
 
 ### 📚 Topics Covered
 
@@ -79,7 +79,7 @@
 
 ---
 
-# 📦 Module 27 — API Query, Pagination & Sorting
+# 📦 Module 06 — API Query, Pagination & Sorting
 
 ### 📚 Topics Covered
 
@@ -96,7 +96,7 @@
 
 ---
 
-# 📦 Module 28 — Post , Comment Management Reference & Best Practices
+# 📦 Module 07 — Post , Comment Management Reference & Best Practices
 
 ### 📚 Topics Covered
 
@@ -109,7 +109,7 @@
 | 05  | 🔏 Get Comments by Author ID with Post & Replies                   | [View](./module-28/C-05.md) |
 | 06  | 🔏 Delete Comment with Validation & Authorization                  | [View](./module-28/C-06.md) |
 
-# 📦 Module 29 — Requirement Analysis, ERD & Project Setup
+# 📦 Module 08 — Requirement Analysis, ERD & Project Setup
 
 ### 📚 Topics Covered
 
@@ -126,7 +126,7 @@
 | 09  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
 | 11  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
 
-# 📦 Module 30 — Prisma Error Handling & Usage
+# 📦 Module 09 — Prisma Error Handling & Usage
 
 ### 📚 Topics Covered
 
