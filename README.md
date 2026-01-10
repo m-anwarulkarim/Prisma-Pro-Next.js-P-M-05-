@@ -113,18 +113,18 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                                          | Link                        |
-| --- | ---------------------------------------------- | --------------------------- |
-| 01  | 🔏 Admin Comment Management System             | [View](./module-29/C-01.md) |
-| 02  | 🔏 Prisma Aggregation / Grouping / Summarizing | [View](./module-29/C-01.md) |
-| 03  | 🔏 Update User-Owned Posts                     | [View](./module-29/C-01.md) |
-| 04  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
-| 05  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
-| 06  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
-| 07  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
-| 08  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
-| 09  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
-| 11  | 🔏 Comming soon...                             | [View](./module-29/C-01.md) |
+| No. | Topic                                              | Link                        |
+| --- | -------------------------------------------------- | --------------------------- |
+| 01  | 🔏 Admin Comment Management System                 | [View](./module-29/C-01.md) |
+| 02  | 🔏 Prisma Aggregation / Grouping / Summarizing     | [View](./module-29/C-01.md) |
+| 03  | 🔏 Update User-Owned Posts                         | [View](./module-29/C-01.md) |
+| 04  | 🔏 Prisma: Role-Based Post Update Access           | [View](./module-29/C-01.md) |
+| 05  | 🔏 Post Deletion (User-Owned & Admin-Level Access) | [View](./module-29/C-01.md) |
+| 06  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
+| 07  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
+| 08  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
+| 09  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
+| 11  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
 
 # 📦 Module 09 — Prisma Error Handling & Usage
 
