@@ -116,15 +116,15 @@
 | No. | Topic                                              | Link                        |
 | --- | -------------------------------------------------- | --------------------------- |
 | 01  | 🔏 Admin Comment Management System                 | [View](./module-29/C-01.md) |
-| 02  | 🔏 Prisma Aggregation / Grouping / Summarizing     | [View](./module-29/C-01.md) |
-| 03  | 🔏 Update User-Owned Posts                         | [View](./module-29/C-01.md) |
-| 04  | 🔏 Prisma: Role-Based Post Update Access           | [View](./module-29/C-01.md) |
-| 05  | 🔏 Post Deletion (User-Owned & Admin-Level Access) | [View](./module-29/C-01.md) |
-| 06  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
-| 07  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
-| 08  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
-| 09  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
-| 11  | 🔏 Comming soon...                                 | [View](./module-29/C-01.md) |
+| 02  | 🔏 Prisma Aggregation / Grouping / Summarizing     | [View](./module-29/C-02.md) |
+| 03  | 🔏 Update User-Owned Posts                         | [View](./module-29/C-03.md) |
+| 04  | 🔏 Prisma: Role-Based Post Update Access           | [View](./module-29/C-04.md) |
+| 05  | 🔏 Post Deletion (User-Owned & Admin-Level Access) | [View](./module-29/C-05.md) |
+| 06  | 🔏 Comming soon...                                 | [View](./module-29/C-06.md) |
+| 07  | 🔏 Comming soon...                                 | [View](./module-29/C-07.md) |
+| 08  | 🔏 Comming soon...                                 | [View](./module-29/C-08.md) |
+| 09  | 🔏 Comming soon...                                 | [View](./module-29/C-09.md) |
+| 11  | 🔏 Comming soon...                                 | [View](./module-29/C-10.md) |
 
 # 📦 Module 09 — Prisma Error Handling & Usage
 
