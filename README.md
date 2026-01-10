@@ -126,7 +126,7 @@
 | 09  | 🔏 Prisma Performance Tips                              | [View](./module-29/C-09.md) |
 | 10  | 🔏 High-Traffic Dashboard Optimization (Complete Guide) | [View](./module-29/C-10.md) |
 | 11  | 🔏 Caching (Redis) — Complete & Practical Guide         | [View](./module-29/C-11.md) |
-| 11  | 🔏 Time-Series Statistics (Complete Guide)              | [View](./module-29/C-11.md) |
+| 12  | 🔏 Time-Series Statistics (Complete Guide)              | [View](./module-29/C-12.md) |
 
 #### **(09,10,11,12 optional )**
 
