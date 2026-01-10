@@ -113,18 +113,22 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                                              | Link                        |
-| --- | -------------------------------------------------- | --------------------------- |
-| 01  | 🔏 Admin Comment Management System                 | [View](./module-29/C-01.md) |
-| 02  | 🔏 Prisma Aggregation / Grouping / Summarizing     | [View](./module-29/C-02.md) |
-| 03  | 🔏 Update User-Owned Posts                         | [View](./module-29/C-03.md) |
-| 04  | 🔏 Prisma: Role-Based Post Update Access           | [View](./module-29/C-04.md) |
-| 05  | 🔏 Post Deletion (User-Owned & Admin-Level Access) | [View](./module-29/C-05.md) |
-| 06  | 🔏 Comming soon...                                 | [View](./module-29/C-06.md) |
-| 07  | 🔏 Comming soon...                                 | [View](./module-29/C-07.md) |
-| 08  | 🔏 Comming soon...                                 | [View](./module-29/C-08.md) |
-| 09  | 🔏 Comming soon...                                 | [View](./module-29/C-09.md) |
-| 11  | 🔏 Comming soon...                                 | [View](./module-29/C-10.md) |
+| No. | Topic                                                   | Link                        |
+| --- | ------------------------------------------------------- | --------------------------- |
+| 01  | 🔏 Admin Comment Management System                      | [View](./module-29/C-01.md) |
+| 02  | 🔏 Prisma Aggregation / Grouping / Summarizing          | [View](./module-29/C-02.md) |
+| 03  | 🔏 Update User-Owned Posts                              | [View](./module-29/C-03.md) |
+| 04  | 🔏 Prisma: Role-Based Post Update Access                | [View](./module-29/C-04.md) |
+| 05  | 🔏 Post Deletion (User-Owned & Admin-Level Access)      | [View](./module-29/C-05.md) |
+| 06  | 🔏 Statistics / Metrics                                 | [View](./module-29/C-06.md) |
+| 07  | 🔏 Dashboard Statistics (Prisma)                        | [View](./module-29/C-07.md) |
+| 08  | 🔏 Prisma: Multiple Schema Files Setup                  | [View](./module-29/C-08.md) |
+| 09  | 🔏 Prisma Performance Tips                              | [View](./module-29/C-09.md) |
+| 10  | 🔏 High-Traffic Dashboard Optimization (Complete Guide) | [View](./module-29/C-10.md) |
+| 11  | 🔏 Caching (Redis) — Complete & Practical Guide         | [View](./module-29/C-11.md) |
+| 11  | 🔏 Time-Series Statistics (Complete Guide)              | [View](./module-29/C-11.md) |
+
+#### **(09,10,11,12 optional )**
 
 # 📦 Module 09 — Prisma Error Handling & Usage
 
